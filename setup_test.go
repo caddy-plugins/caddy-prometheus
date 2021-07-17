@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/caddyserver/caddy"
+	"github.com/admpub/caddy"
 )
 
 func TestParse(t *testing.T) {
